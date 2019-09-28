@@ -1,6 +1,0 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "#openjam team site"
-theme = "hashtagopenjam"
-buildDrafts = true
-watch = true
